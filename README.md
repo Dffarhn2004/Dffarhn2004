@@ -6,6 +6,12 @@
 
 I build reliable APIs, scalable backend systems, AI-powered workflows, and cross-platform applications.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://daffaraihan.vercel.app)
+[![Mibebi](https://img.shields.io/badge/Mibebi-Live_Project-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mibebi.com)
+[![IMUII](https://img.shields.io/badge/IMUII-Lab_Project-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://imuii.id)
+
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Dffarhn2004&style=flat-square)](https://github.com/Dffarhn2004)
 [![GitHub](https://img.shields.io/badge/GitHub-Dffarhn2004-181717?style=flat-square&logo=github)](https://github.com/Dffarhn2004)
 
@@ -21,6 +27,29 @@ I build reliable APIs, scalable backend systems, AI-powered workflows, and cross
 - 🤖 Exploring **AI agents, RAG, LLM systems, and reliable model routing**
 - 🐳 Working with **Docker, GitHub Actions, REST APIs, authentication, and deployment pipelines**
 - 🧠 I care about **clean architecture, maintainability, performance, and practical engineering**
+
+---
+
+## 🌟 Highlighted Projects
+
+### 👨‍💻 Personal Portfolio — [daffaraihan.vercel.app](https://daffaraihan.vercel.app)
+
+My personal engineering portfolio showcasing selected projects, professional experience, technical work, and achievements.
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-daffaraihan.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://daffaraihan.vercel.app)
+
+### 🍽️ Mibebi — [mibebi.com](https://mibebi.com)
+
+An integrated business ecosystem built around practical digital workflows for modern businesses.
+
+[![Live Website](https://img.shields.io/badge/Live_Website-mibebi.com-22C55E?style=flat-square&logo=googlechrome&logoColor=white)](https://mibebi.com)
+[![Repository](https://img.shields.io/badge/Repository-mibebi--portal-181717?style=flat-square&logo=github)](https://github.com/Dffarhn2004/mibebi-portal)
+
+### 🚀 IMUII — [imuii.id](https://imuii.id)
+
+A deployment automation platform built as a lab project, supporting developer workflows through CLI-based deployment, GitHub project import, and AI-assisted website generation.
+
+[![Visit IMUII](https://img.shields.io/badge/Visit_IMUII-imuii.id-7C3AED?style=flat-square&logo=rocket&logoColor=white)](https://imuii.id)
 
 ---
 
@@ -65,14 +94,7 @@ I enjoy turning real-world requirements into systems that are clean, reliable, a
 
 ---
 
-## 📌 Featured Work
-
-### 🍽️ Mibebi
-A modern web platform focused on restaurant and culinary business workflows.
-
-[![Repository](https://img.shields.io/badge/View_Repository-mibebi--portal-181717?style=for-the-badge&logo=github)](https://github.com/Dffarhn2004/mibebi-portal)
-
-### 🤖 AI & Research Interests
+## 🤖 AI & Research Interests
 
 - Agentic AI systems
 - Failure-aware LLM routing
